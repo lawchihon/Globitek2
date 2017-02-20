@@ -6,31 +6,31 @@ Time spent: 10 hours spent in total
 
 The following **required** functionality is completed:
 
-1\. [X]  Required: Import the Starting Database
+- [X]  Required: Import the Starting Database
 
-2\. [X]  Required: Set Up the Starting Code
+- [X]  Required: Set Up the Starting Code
 
-3\. [X]  Required: Review code for Staff CMS for Users
+- [X]  Required: Review code for Staff CMS for Users
 
-4\. [X]  Required: Complete Staff CMS for Salespeople
+- [X]  Required: Complete Staff CMS for Salespeople
   * [X]  Required: index.php
   * [X]  Required: show.php
   * [X]  Required: new.php
   * [X]  Required: edit.php
 
-5\. [X]  Required: Complete Staff CMS for States
+- [X]  Required: Complete Staff CMS for States
   * [X]  Required: index.php
   * [X]  Required: show.php
   * [X]  Required: new.php
   * [X]  Required: edit.php
 
-6\. [X]  Required: Complete Staff CMS for Territories
+- [X]  Required: Complete Staff CMS for Territories
   * [X]  Required: index.php
   * [X]  Required: show.php
   * [X]  Required: new.php
   * [X]  Required: edit.php
 
-7\. [X]  Required: Add Data Validations
+- [X]  Required: Add Data Validations
   * [X]  Required: Validate that no values are left blank.
   * [X]  Required: Validate that all string values are less than 255 characters.
   * [X]  Required: Validate that usernames contain only the whitelisted characters.
@@ -44,13 +44,13 @@ The following **required** functionality is completed:
     * [X]  Validate that state country id contain only whitelisted characters: 0-9
     * [X]  Validate that all position values contain only whitelisted characters: 0-9
 
-8\. [X]  Required: Sanitization
+- [X]  Required: Sanitization
   * [X]  Required: All input and dynamic output should be sanitized.
   * [X]  Required: Sanitize dynamic data for URLs
   * [X]  Required: Sanitize dynamic data for HTML
   * [X]  Required: Sanitize dynamic data for SQL
 
-9\. [X]  Required: Penetration Testing
+- [X]  Required: Penetration Testing
   * [X]  Required: Verify form inputs are not vulnerable to SQLI attacks.
   * [X]  Required: Verify query strings are not vulnerable to SQLI attacks.
   * [X]  Required: Verify form inputs are not vulnerable to XSS attacks.
