@@ -1,0 +1,4 @@
+[20-Feb-2017 05:00:40 UTC] PHP Fatal error:  Cannot redeclare has_unique_user_email() (previously declared in /home/ubuntu/workspace/private/validation_functions.php:71) in /home/ubuntu/workspace/private/validation_functions.php on line 101
+[20-Feb-2017 05:00:40 UTC] PHP Stack trace:
+[20-Feb-2017 05:00:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/index.php:0
+[20-Feb-2017 05:00:40 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/index.php:1

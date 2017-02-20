@@ -1,0 +1,308 @@
+[09-Feb-2017 05:24:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/private/database.php on line 16
+[09-Feb-2017 05:24:31 UTC] PHP Stack trace:
+[09-Feb-2017 05:24:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/salespeople/new.php:0
+[09-Feb-2017 05:24:31 UTC] PHP   2. insert_salesperson() /home/ubuntu/workspace/public/staff/salespeople/new.php:21
+[09-Feb-2017 05:24:31 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:241
+[09-Feb-2017 05:24:31 UTC] PHP   4. mysqli_query() /home/ubuntu/workspace/private/database.php:16
+[12-Feb-2017 21:26:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/staff/states/show.php on line 51
+[12-Feb-2017 21:26:54 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/staff/states/show.php on line 51
+[12-Feb-2017 21:26:57 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/staff/states/show.php on line 51
+[12-Feb-2017 21:29:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/public/staff/states/show.php on line 51
+[19-Feb-2017 01:16:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/private/database.php on line 16
+[19-Feb-2017 01:16:32 UTC] PHP Stack trace:
+[19-Feb-2017 01:16:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/territories/edit.php:0
+[19-Feb-2017 01:16:32 UTC] PHP   2. update_territory() /home/ubuntu/workspace/public/staff/territories/edit.php:20
+[19-Feb-2017 01:16:32 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:192
+[19-Feb-2017 01:16:32 UTC] PHP   4. mysqli_query() /home/ubuntu/workspace/private/database.php:16
+[19-Feb-2017 01:28:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/public/staff/territories/edit.php on line 25
+[19-Feb-2017 03:53:07 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 294
+[19-Feb-2017 03:53:07 UTC] PHP Stack trace:
+[19-Feb-2017 03:53:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/index.php:0
+[19-Feb-2017 03:53:07 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/index.php:1
+[19-Feb-2017 03:53:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 294
+[19-Feb-2017 03:53:10 UTC] PHP Stack trace:
+[19-Feb-2017 03:53:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/index.php:0
+[19-Feb-2017 03:53:10 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/index.php:1
+[19-Feb-2017 03:53:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 294
+[19-Feb-2017 03:53:14 UTC] PHP Stack trace:
+[19-Feb-2017 03:53:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/new.php:0
+[19-Feb-2017 03:53:14 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/new.php:2
+[19-Feb-2017 03:53:15 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 294
+[19-Feb-2017 03:53:15 UTC] PHP Stack trace:
+[19-Feb-2017 03:53:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/index.php:0
+[19-Feb-2017 03:53:15 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/index.php:1
+[19-Feb-2017 04:01:52 UTC] PHP Warning:  preg_match(): Compilation failed: reference to non-existent subpattern at offset 18 in /home/ubuntu/workspace/private/validation_functions.php on line 40
+[19-Feb-2017 04:01:52 UTC] PHP Stack trace:
+[19-Feb-2017 04:01:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/salespeople/edit.php:0
+[19-Feb-2017 04:01:52 UTC] PHP   2. update_salesperson() /home/ubuntu/workspace/public/staff/salespeople/edit.php:26
+[19-Feb-2017 04:01:52 UTC] PHP   3. validate_salesperson() /home/ubuntu/workspace/private/query_functions.php:345
+[19-Feb-2017 04:01:52 UTC] PHP   4. has_valid_phone_character() /home/ubuntu/workspace/private/query_functions.php:294
+[19-Feb-2017 04:01:52 UTC] PHP   5. preg_match() /home/ubuntu/workspace/private/validation_functions.php:40
+[19-Feb-2017 04:23:28 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 53
+[19-Feb-2017 04:23:28 UTC] PHP Stack trace:
+[19-Feb-2017 04:23:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/salespeople/index.php:0
+[19-Feb-2017 04:23:28 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/salespeople/index.php:1
+[19-Feb-2017 04:24:12 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 169
+[19-Feb-2017 04:24:12 UTC] PHP Stack trace:
+[19-Feb-2017 04:24:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/salespeople/index.php:0
+[19-Feb-2017 04:24:12 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/salespeople/index.php:1
+[19-Feb-2017 04:24:32 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 288
+[19-Feb-2017 04:24:32 UTC] PHP Stack trace:
+[19-Feb-2017 04:24:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/salespeople/index.php:0
+[19-Feb-2017 04:24:32 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/salespeople/index.php:1
+[19-Feb-2017 04:24:46 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 296
+[19-Feb-2017 04:24:46 UTC] PHP Stack trace:
+[19-Feb-2017 04:24:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/salespeople/index.php:0
+[19-Feb-2017 04:24:46 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/salespeople/index.php:1
+[19-Feb-2017 04:24:55 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 421
+[19-Feb-2017 04:24:55 UTC] PHP Stack trace:
+[19-Feb-2017 04:24:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/salespeople/index.php:0
+[19-Feb-2017 04:24:55 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/salespeople/index.php:1
+[19-Feb-2017 04:25:09 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/private/query_functions.php on line 458
+[19-Feb-2017 04:25:09 UTC] PHP Stack trace:
+[19-Feb-2017 04:25:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/salespeople/index.php:0
+[19-Feb-2017 04:25:09 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/salespeople/index.php:1
+[19-Feb-2017 04:27:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/private/validation_functions.php on line 58
+[19-Feb-2017 04:27:03 UTC] PHP Stack trace:
+[19-Feb-2017 04:27:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/new.php:0
+[19-Feb-2017 04:27:03 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/new.php:2
+[19-Feb-2017 06:15:03 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ubuntu/workspace/public/staff/users/edit.php on line 48
+[19-Feb-2017 06:15:28 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/ubuntu/workspace/public/staff/users/edit.php on line 50
+[19-Feb-2017 06:15:41 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/private/functions.php on line 28
+[19-Feb-2017 06:15:41 UTC] PHP Stack trace:
+[19-Feb-2017 06:15:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 06:15:41 UTC] PHP   2. sanitize() /home/ubuntu/workspace/public/staff/users/edit.php:20
+[19-Feb-2017 06:15:41 UTC] PHP   3. sql() /home/ubuntu/workspace/private/functions.php:32
+[19-Feb-2017 06:15:41 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/functions.php:28
+[19-Feb-2017 06:15:41 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/private/functions.php on line 28
+[19-Feb-2017 06:15:41 UTC] PHP Stack trace:
+[19-Feb-2017 06:15:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 06:15:41 UTC] PHP   2. sanitize() /home/ubuntu/workspace/public/staff/users/edit.php:21
+[19-Feb-2017 06:15:41 UTC] PHP   3. sql() /home/ubuntu/workspace/private/functions.php:32
+[19-Feb-2017 06:15:41 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/functions.php:28
+[19-Feb-2017 06:15:41 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/private/functions.php on line 28
+[19-Feb-2017 06:15:41 UTC] PHP Stack trace:
+[19-Feb-2017 06:15:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 06:15:41 UTC] PHP   2. sanitize() /home/ubuntu/workspace/public/staff/users/edit.php:22
+[19-Feb-2017 06:15:41 UTC] PHP   3. sql() /home/ubuntu/workspace/private/functions.php:32
+[19-Feb-2017 06:15:41 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/functions.php:28
+[19-Feb-2017 06:15:41 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/private/functions.php on line 28
+[19-Feb-2017 06:15:41 UTC] PHP Stack trace:
+[19-Feb-2017 06:15:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 06:15:41 UTC] PHP   2. sanitize() /home/ubuntu/workspace/public/staff/users/edit.php:23
+[19-Feb-2017 06:15:41 UTC] PHP   3. sql() /home/ubuntu/workspace/private/functions.php:32
+[19-Feb-2017 06:15:41 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/functions.php:28
+[19-Feb-2017 07:43:47 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/private/functions.php on line 16
+[19-Feb-2017 07:43:47 UTC] PHP Stack trace:
+[19-Feb-2017 07:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:43:47 UTC] PHP   2. find_user_by_id() /home/ubuntu/workspace/public/staff/users/edit.php:7
+[19-Feb-2017 07:43:47 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:415
+[19-Feb-2017 07:43:47 UTC] PHP   4. sql() /home/ubuntu/workspace/private/database.php:16
+[19-Feb-2017 07:43:47 UTC] PHP   5. mysqli_real_escape_string() /home/ubuntu/workspace/private/functions.php:16
+[19-Feb-2017 07:43:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/private/database.php on line 16
+[19-Feb-2017 07:43:47 UTC] PHP Stack trace:
+[19-Feb-2017 07:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:43:47 UTC] PHP   2. find_user_by_id() /home/ubuntu/workspace/public/staff/users/edit.php:7
+[19-Feb-2017 07:43:47 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:415
+[19-Feb-2017 07:43:47 UTC] PHP   4. mysqli_query() /home/ubuntu/workspace/private/database.php:16
+[19-Feb-2017 07:43:47 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/private/functions.php on line 16
+[19-Feb-2017 07:43:47 UTC] PHP Stack trace:
+[19-Feb-2017 07:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:43:47 UTC] PHP   2. find_user_by_id() /home/ubuntu/workspace/public/staff/users/edit.php:7
+[19-Feb-2017 07:43:47 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:415
+[19-Feb-2017 07:43:47 UTC] PHP   4. sql() /home/ubuntu/workspace/private/database.php:17
+[19-Feb-2017 07:43:47 UTC] PHP   5. mysqli_real_escape_string() /home/ubuntu/workspace/private/functions.php:16
+[19-Feb-2017 07:43:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/private/database.php on line 30
+[19-Feb-2017 07:43:47 UTC] PHP Stack trace:
+[19-Feb-2017 07:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:43:47 UTC] PHP   2. db_fetch_assoc() /home/ubuntu/workspace/public/staff/users/edit.php:9
+[19-Feb-2017 07:43:47 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/private/database.php:30
+[19-Feb-2017 07:52:48 UTC] PHP Parse error:  syntax error, unexpected '$result_set' (T_VARIABLE) in /home/ubuntu/workspace/private/database.php on line 18
+[19-Feb-2017 07:52:48 UTC] PHP Stack trace:
+[19-Feb-2017 07:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:52:48 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/edit.php:2
+[19-Feb-2017 07:53:03 UTC] PHP Parse error:  syntax error, unexpected '$result_set' (T_VARIABLE) in /home/ubuntu/workspace/private/database.php on line 18
+[19-Feb-2017 07:53:03 UTC] PHP Stack trace:
+[19-Feb-2017 07:53:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:53:03 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/edit.php:2
+[19-Feb-2017 07:53:22 UTC] PHP Parse error:  syntax error, unexpected '$result_set' (T_VARIABLE) in /home/ubuntu/workspace/private/database.php on line 18
+[19-Feb-2017 07:53:22 UTC] PHP Stack trace:
+[19-Feb-2017 07:53:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:53:22 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/edit.php:2
+[19-Feb-2017 07:53:24 UTC] PHP Parse error:  syntax error, unexpected '$result_set' (T_VARIABLE) in /home/ubuntu/workspace/private/database.php on line 18
+[19-Feb-2017 07:53:24 UTC] PHP Stack trace:
+[19-Feb-2017 07:53:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:53:24 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/edit.php:2
+[19-Feb-2017 07:53:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/private/database.php on line 18
+[19-Feb-2017 07:53:56 UTC] PHP Stack trace:
+[19-Feb-2017 07:53:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/edit.php:0
+[19-Feb-2017 07:53:56 UTC] PHP   2. require_once() /home/ubuntu/workspace/public/staff/users/edit.php:2
+[19-Feb-2017 08:05:37 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in /home/ubuntu/workspace/public/staff/territories/show.php on line 4
+[19-Feb-2017 08:13:38 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/public/staff/territories/edit.php on line 14
+[19-Feb-2017 08:13:38 UTC] PHP Stack trace:
+[19-Feb-2017 08:13:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/territories/edit.php:0
+[19-Feb-2017 08:15:35 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/public/staff/territories/edit.php on line 14
+[19-Feb-2017 08:15:35 UTC] PHP Stack trace:
+[19-Feb-2017 08:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/territories/edit.php:0
+[19-Feb-2017 08:21:03 UTC] PHP Warning:  Missing argument 2 for db_escape(), called in /home/ubuntu/workspace/private/query_functions.php on line 115 and defined in /home/ubuntu/workspace/private/database.php on line 56
+[19-Feb-2017 08:21:03 UTC] PHP Stack trace:
+[19-Feb-2017 08:21:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:21:03 UTC] PHP   2. update_state() /home/ubuntu/workspace/public/staff/states/edit.php:25
+[19-Feb-2017 08:21:03 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:115
+[19-Feb-2017 08:21:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/private/database.php on line 57
+[19-Feb-2017 08:21:03 UTC] PHP Stack trace:
+[19-Feb-2017 08:21:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:21:03 UTC] PHP   2. update_state() /home/ubuntu/workspace/public/staff/states/edit.php:25
+[19-Feb-2017 08:21:03 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:115
+[19-Feb-2017 08:21:03 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:57
+[19-Feb-2017 08:21:08 UTC] PHP Warning:  Missing argument 2 for db_escape(), called in /home/ubuntu/workspace/private/query_functions.php on line 115 and defined in /home/ubuntu/workspace/private/database.php on line 56
+[19-Feb-2017 08:21:08 UTC] PHP Stack trace:
+[19-Feb-2017 08:21:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:21:08 UTC] PHP   2. update_state() /home/ubuntu/workspace/public/staff/states/edit.php:25
+[19-Feb-2017 08:21:08 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:115
+[19-Feb-2017 08:21:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/private/database.php on line 57
+[19-Feb-2017 08:21:08 UTC] PHP Stack trace:
+[19-Feb-2017 08:21:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:21:08 UTC] PHP   2. update_state() /home/ubuntu/workspace/public/staff/states/edit.php:25
+[19-Feb-2017 08:21:08 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:115
+[19-Feb-2017 08:21:08 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:57
+[19-Feb-2017 08:21:14 UTC] PHP Warning:  Missing argument 2 for db_escape(), called in /home/ubuntu/workspace/private/query_functions.php on line 115 and defined in /home/ubuntu/workspace/private/database.php on line 56
+[19-Feb-2017 08:21:14 UTC] PHP Stack trace:
+[19-Feb-2017 08:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:21:14 UTC] PHP   2. update_state() /home/ubuntu/workspace/public/staff/states/edit.php:25
+[19-Feb-2017 08:21:14 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:115
+[19-Feb-2017 08:21:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/ubuntu/workspace/private/database.php on line 57
+[19-Feb-2017 08:21:14 UTC] PHP Stack trace:
+[19-Feb-2017 08:21:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:21:14 UTC] PHP   2. update_state() /home/ubuntu/workspace/public/staff/states/edit.php:25
+[19-Feb-2017 08:21:14 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:115
+[19-Feb-2017 08:21:14 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:57
+[19-Feb-2017 08:22:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/ubuntu/workspace/private/database.php on line 34
+[19-Feb-2017 08:22:12 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:22:12 UTC] PHP   2. find_state_by_id() /home/ubuntu/workspace/public/staff/states/edit.php:8
+[19-Feb-2017 08:22:12 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:43
+[19-Feb-2017 08:22:12 UTC] PHP   4. db_fetch_assoc() /home/ubuntu/workspace/private/database.php:18
+[19-Feb-2017 08:22:12 UTC] PHP   5. mysqli_fetch_assoc() /home/ubuntu/workspace/private/database.php:34
+[19-Feb-2017 08:22:12 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/private/database.php on line 20
+[19-Feb-2017 08:22:12 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:22:12 UTC] PHP   2. find_state_by_id() /home/ubuntu/workspace/public/staff/states/edit.php:8
+[19-Feb-2017 08:22:12 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:43
+[19-Feb-2017 08:22:12 UTC] PHP   4. mysqli_query() /home/ubuntu/workspace/private/database.php:20
+[19-Feb-2017 08:22:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/private/database.php on line 34
+[19-Feb-2017 08:22:12 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/edit.php:0
+[19-Feb-2017 08:22:12 UTC] PHP   2. db_fetch_assoc() /home/ubuntu/workspace/public/staff/states/edit.php:10
+[19-Feb-2017 08:22:12 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/private/database.php:34
+[19-Feb-2017 08:22:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/ubuntu/workspace/private/database.php on line 34
+[19-Feb-2017 08:22:20 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/show.php:0
+[19-Feb-2017 08:22:20 UTC] PHP   2. find_state_by_id() /home/ubuntu/workspace/public/staff/states/show.php:8
+[19-Feb-2017 08:22:20 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:43
+[19-Feb-2017 08:22:20 UTC] PHP   4. db_fetch_assoc() /home/ubuntu/workspace/private/database.php:18
+[19-Feb-2017 08:22:20 UTC] PHP   5. mysqli_fetch_assoc() /home/ubuntu/workspace/private/database.php:34
+[19-Feb-2017 08:22:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/private/database.php on line 20
+[19-Feb-2017 08:22:20 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/show.php:0
+[19-Feb-2017 08:22:20 UTC] PHP   2. find_state_by_id() /home/ubuntu/workspace/public/staff/states/show.php:8
+[19-Feb-2017 08:22:20 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:43
+[19-Feb-2017 08:22:20 UTC] PHP   4. mysqli_query() /home/ubuntu/workspace/private/database.php:20
+[19-Feb-2017 08:22:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/private/database.php on line 34
+[19-Feb-2017 08:22:20 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/show.php:0
+[19-Feb-2017 08:22:20 UTC] PHP   2. db_fetch_assoc() /home/ubuntu/workspace/public/staff/states/show.php:10
+[19-Feb-2017 08:22:20 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/private/database.php:34
+[19-Feb-2017 08:22:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home/ubuntu/workspace/private/database.php on line 34
+[19-Feb-2017 08:22:20 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/show.php:0
+[19-Feb-2017 08:22:20 UTC] PHP   2. find_territories_for_state_id() /home/ubuntu/workspace/public/staff/states/show.php:47
+[19-Feb-2017 08:22:20 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:150
+[19-Feb-2017 08:22:20 UTC] PHP   4. db_fetch_assoc() /home/ubuntu/workspace/private/database.php:18
+[19-Feb-2017 08:22:20 UTC] PHP   5. mysqli_fetch_assoc() /home/ubuntu/workspace/private/database.php:34
+[19-Feb-2017 08:22:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home/ubuntu/workspace/private/database.php on line 20
+[19-Feb-2017 08:22:20 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/show.php:0
+[19-Feb-2017 08:22:20 UTC] PHP   2. find_territories_for_state_id() /home/ubuntu/workspace/public/staff/states/show.php:47
+[19-Feb-2017 08:22:20 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:150
+[19-Feb-2017 08:22:20 UTC] PHP   4. mysqli_query() /home/ubuntu/workspace/private/database.php:20
+[19-Feb-2017 08:22:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/private/database.php on line 34
+[19-Feb-2017 08:22:20 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/show.php:0
+[19-Feb-2017 08:22:20 UTC] PHP   2. db_fetch_assoc() /home/ubuntu/workspace/public/staff/states/show.php:50
+[19-Feb-2017 08:22:20 UTC] PHP   3. mysqli_fetch_assoc() /home/ubuntu/workspace/private/database.php:34
+[19-Feb-2017 08:22:20 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/private/database.php on line 38
+[19-Feb-2017 08:22:20 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/show.php:0
+[19-Feb-2017 08:22:20 UTC] PHP   2. db_free_result() /home/ubuntu/workspace/public/staff/states/show.php:57
+[19-Feb-2017 08:22:20 UTC] PHP   3. mysqli_free_result() /home/ubuntu/workspace/private/database.php:38
+[19-Feb-2017 08:22:20 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/private/database.php on line 38
+[19-Feb-2017 08:22:20 UTC] PHP Stack trace:
+[19-Feb-2017 08:22:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/show.php:0
+[19-Feb-2017 08:22:20 UTC] PHP   2. db_free_result() /home/ubuntu/workspace/public/staff/states/show.php:60
+[19-Feb-2017 08:22:20 UTC] PHP   3. mysqli_free_result() /home/ubuntu/workspace/private/database.php:38
+[19-Feb-2017 08:23:15 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/private/database.php on line 18
+[19-Feb-2017 08:23:15 UTC] PHP Stack trace:
+[19-Feb-2017 08:23:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/states/index.php:0
+[19-Feb-2017 08:23:15 UTC] PHP   2. find_all_states() /home/ubuntu/workspace/public/staff/states/index.php:15
+[19-Feb-2017 08:23:15 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:24
+[19-Feb-2017 08:23:15 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:18
+[19-Feb-2017 09:29:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/private/database.php on line 31
+[19-Feb-2017 09:29:24 UTC] PHP Stack trace:
+[19-Feb-2017 09:29:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/country/edit.php:0
+[19-Feb-2017 09:29:24 UTC] PHP   2. update_country() /home/ubuntu/workspace/public/staff/country/edit.php:23
+[19-Feb-2017 09:29:24 UTC] PHP   3. db_fetch_assoc() /home/ubuntu/workspace/private/query_functions.php:604
+[19-Feb-2017 09:29:24 UTC] PHP   4. mysqli_fetch_assoc() /home/ubuntu/workspace/private/database.php:31
+[19-Feb-2017 09:37:36 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/private/database.php on line 35
+[19-Feb-2017 09:37:36 UTC] PHP Stack trace:
+[19-Feb-2017 09:37:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/country/show.php:0
+[19-Feb-2017 09:37:36 UTC] PHP   2. db_free_result() /home/ubuntu/workspace/public/staff/country/show.php:55
+[19-Feb-2017 09:37:36 UTC] PHP   3. mysqli_free_result() /home/ubuntu/workspace/private/database.php:35
+[19-Feb-2017 17:31:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/private/database.php on line 55
+[19-Feb-2017 17:31:49 UTC] PHP Stack trace:
+[19-Feb-2017 17:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/delete.php:0
+[19-Feb-2017 17:31:49 UTC] PHP   2. delete_user() /home/ubuntu/workspace/public/staff/users/delete.php:19
+[19-Feb-2017 17:31:49 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:532
+[19-Feb-2017 17:31:49 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:55
+[19-Feb-2017 17:31:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/private/database.php on line 55
+[19-Feb-2017 17:31:49 UTC] PHP Stack trace:
+[19-Feb-2017 17:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/delete.php:0
+[19-Feb-2017 17:31:49 UTC] PHP   2. delete_user() /home/ubuntu/workspace/public/staff/users/delete.php:19
+[19-Feb-2017 17:31:49 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:533
+[19-Feb-2017 17:31:49 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:55
+[19-Feb-2017 17:31:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/private/database.php on line 55
+[19-Feb-2017 17:31:49 UTC] PHP Stack trace:
+[19-Feb-2017 17:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/delete.php:0
+[19-Feb-2017 17:31:49 UTC] PHP   2. delete_user() /home/ubuntu/workspace/public/staff/users/delete.php:19
+[19-Feb-2017 17:31:49 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:534
+[19-Feb-2017 17:31:49 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:55
+[19-Feb-2017 17:31:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/private/database.php on line 55
+[19-Feb-2017 17:31:49 UTC] PHP Stack trace:
+[19-Feb-2017 17:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/delete.php:0
+[19-Feb-2017 17:31:49 UTC] PHP   2. delete_user() /home/ubuntu/workspace/public/staff/users/delete.php:19
+[19-Feb-2017 17:31:49 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:535
+[19-Feb-2017 17:31:49 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:55
+[19-Feb-2017 17:31:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/private/database.php on line 55
+[19-Feb-2017 17:31:49 UTC] PHP Stack trace:
+[19-Feb-2017 17:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/delete.php:0
+[19-Feb-2017 17:31:49 UTC] PHP   2. delete_user() /home/ubuntu/workspace/public/staff/users/delete.php:19
+[19-Feb-2017 17:31:49 UTC] PHP   3. db_escape() /home/ubuntu/workspace/private/query_functions.php:536
+[19-Feb-2017 17:31:49 UTC] PHP   4. mysqli_real_escape_string() /home/ubuntu/workspace/private/database.php:55
+[19-Feb-2017 17:31:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/private/database.php on line 17
+[19-Feb-2017 17:31:49 UTC] PHP Stack trace:
+[19-Feb-2017 17:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/delete.php:0
+[19-Feb-2017 17:31:49 UTC] PHP   2. delete_user() /home/ubuntu/workspace/public/staff/users/delete.php:19
+[19-Feb-2017 17:31:49 UTC] PHP   3. db_query() /home/ubuntu/workspace/private/query_functions.php:539
+[19-Feb-2017 17:31:49 UTC] PHP   4. mysqli_query() /home/ubuntu/workspace/private/database.php:17
+[19-Feb-2017 17:31:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/private/database.php on line 47
+[19-Feb-2017 17:31:49 UTC] PHP Stack trace:
+[19-Feb-2017 17:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/delete.php:0
+[19-Feb-2017 17:31:49 UTC] PHP   2. delete_user() /home/ubuntu/workspace/public/staff/users/delete.php:19
+[19-Feb-2017 17:31:49 UTC] PHP   3. db_error() /home/ubuntu/workspace/private/query_functions.php:545
+[19-Feb-2017 17:31:49 UTC] PHP   4. mysqli_error() /home/ubuntu/workspace/private/database.php:47
+[19-Feb-2017 17:31:49 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/private/database.php on line 51
+[19-Feb-2017 17:31:49 UTC] PHP Stack trace:
+[19-Feb-2017 17:31:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/staff/users/delete.php:0
+[19-Feb-2017 17:31:49 UTC] PHP   2. delete_user() /home/ubuntu/workspace/public/staff/users/delete.php:19
+[19-Feb-2017 17:31:49 UTC] PHP   3. db_close() /home/ubuntu/workspace/private/query_functions.php:546
+[19-Feb-2017 17:31:49 UTC] PHP   4. mysqli_close() /home/ubuntu/workspace/private/database.php:51
